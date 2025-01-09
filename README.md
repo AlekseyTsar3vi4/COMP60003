@@ -70,8 +70,8 @@ pip install numpy pandas matplotlib seaborn scip
 - **Chi-Square Test**: Ensures statistical randomness of labels.
 - **Visualisations**: Bar charts and histograms compare synthetic and real datasets.
 ## Code Access
-- [Main_Code_for_Assignment.ipynb](https://colab.research.google.com/drive/1SaIKnq21O8Q_WypeTKN4iqibbC6OgYPT): Synthetic dataset generation.
-- [LANL_dataset.ipynb](https://colab.research.google.com/drive/1-x8Jqxj_3uvuJ_JNbU0Z5eVNQqHy8Zy1): LANL dataset analysis.
+- [Main_Code_for_Assignment.ipynb](https://colab.research.google.com/drive/1SaIKnq21O8Q_WypeTKN4iqibbC6OgYPT?usp=sharing): Synthetic dataset generation.
+- [LANL_dataset.ipynb](https://colab.research.google.com/drive/1-x8Jqxj_3uvuJ_JNbU0Z5eVNQqHy8Zy1?usp=sharing): LANL dataset analysis.
 ## References
 - LANL Dataset: Unified Host and Network Dataset 2017
 - Boutros, F. et al. (2022). SFace: Privacy-friendly and accurate face recognition using synthetic data. arXiv-CS.CV.
